@@ -1,0 +1,27 @@
+dateModified: 1657744722
+email:
+  fromEmail: alyssariah@gmail.com
+  fromName: 'Craft Vite'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    3aeeba25-d2f1-42ac-a561-0326e7e6d644: 'Craft Vite' # Craft Vite
+    97f9e826-af67-4174-838a-7353aeeb4f11: Common # Common
+    bfeecf0a-696f-4440-945c-6d02d7eb7c9a: 'Craft Vite' # Craft Vite
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Craft Vite'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
